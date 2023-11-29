@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+PhD student working on the modelling of 🦟 and 🦠 :-)
+
 <!--
 **Mgarrizor/Mgarrizor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

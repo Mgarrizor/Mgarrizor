@@ -2,7 +2,7 @@ PhD student working on the modelling of 🦟 and 🦠 :-)
 
 ### Climate data:
 - [E-OBS](https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-europe?tab=overview) Daily from 1950-Present over Europe
-- [ERA5 Global atmopsheric reanalysis](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-complete?tab=overview)
+- [ERA5 Global atmopsheric reanalysis](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-complete?tab=overview) ; Paper [link](https://doi.org/10.1002/qj.3803)
 - [Climate Data Online (CDO)](https://www.ncei.noaa.gov/cdo-web/)
   
 ### Vector data:

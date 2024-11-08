@@ -1,6 +1,6 @@
 PDRA Fellow - ICTP (Trieste, Italy)
 
-## Data
+## Open access datasets 
 ### Climate
 #### Europe 
 - [EMO](https://data.jrc.ec.europa.eu/dataset/0bd84be4-cec8-4180-97a6-8b3adaac4d26#dataaccess) High resolution gridded data set (1990-Present)

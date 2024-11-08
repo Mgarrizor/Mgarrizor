@@ -1,4 +1,4 @@
-PhD student working on the modelling of 🦟 and 🦠 :-)
+PDRA Fellow - ICTP (Trieste, Italy)
 
 ## Data
 ### Climate
@@ -12,7 +12,8 @@ PhD student working on the modelling of 🦟 and 🦠 :-)
 
   
 ### Vector
-
+#### Eggs
+- [Emilia-Romagna](https://www.zanzaratigreonline.it/it/monitoraggio/dati-di-monitoraggio)
 
 ### Health
 

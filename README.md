@@ -16,7 +16,7 @@ PDRA Fellow - ICTP (Trieste, Italy)
 - [Emilia-Romagna](https://www.zanzaratigreonline.it/it/monitoraggio/dati-di-monitoraggio)
 
 ### Health
-
+- [Street map](https://www.openstreetmap.org/#map=6/45.02/6.60)
 ## Software
 - [Climate Data Operator (CDO)](https://code.mpimet.mpg.de/projects/cdo)
 

@@ -14,14 +14,14 @@ PDRA Fellow - ICTP (Trieste, Italy)
 
   
 ### Health & Vector
-#### Eggs
-- [Emilia-Romagna](https://www.zanzaratigreonline.it/it/monitoraggio/dati-di-monitoraggio)
+
+- [Emilia-Romagna](https://www.zanzaratigreonline.it/it/monitoraggio/dati-di-monitoraggio) Ovitrapped egg bi-weekly surveillance in Emilia Romagna (Italy)
 - [Age and sex](https://hub.worldpop.org/project/categories?id=8)
 
 ### 'Geography'
 - [Street map](https://www.openstreetmap.org/#map=6/45.02/6.60)
 - [LandScan](https://landscan.ornl.gov)
-- 
+
 ## Software
 - [Climate Data Operator (CDO)](https://code.mpimet.mpg.de/projects/cdo)
 

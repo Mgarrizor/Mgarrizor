@@ -13,14 +13,15 @@ PDRA Fellow - ICTP (Trieste, Italy)
 - CPC analysis for [temperature](https://psl.noaa.gov/data/gridded/data.cpc.globaltemp.html) and [rainfall](https://psl.noaa.gov/data/gridded/data.cpc.globalprecip.html)
 
   
-### Vector
+### Health & Vector
 #### Eggs
 - [Emilia-Romagna](https://www.zanzaratigreonline.it/it/monitoraggio/dati-di-monitoraggio)
+- [Age and sex](https://hub.worldpop.org/project/categories?id=8)
 
-### Health
+### 'Geography'
 - [Street map](https://www.openstreetmap.org/#map=6/45.02/6.60)
 - [LandScan](https://landscan.ornl.gov)
-- [Age and sex](https://hub.worldpop.org/project/categories?id=8)
+- 
 ## Software
 - [Climate Data Operator (CDO)](https://code.mpimet.mpg.de/projects/cdo)
 
